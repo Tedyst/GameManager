@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github.com/Tedyst/GameManager/handlers"
 	"log"
 	"net/http"
+
+	"github.com/Tedyst/GameManager/pkg/handlers"
 )
 
 func main() {
